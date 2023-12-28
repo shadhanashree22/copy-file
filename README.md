@@ -34,7 +34,9 @@ with open("sample.txt","r") as firstfile:
 
 FILE 1:
 ![OUTPUT](./PIC%201.jpg)
+FILE 2:
 ![OUTPUT](./PIC%202.jpg)
+FILE 3:
 ![OUTPUT](./PIC%203.jpg)
 
 
